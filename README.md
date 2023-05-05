@@ -1,5 +1,6 @@
 # generator_objects
 
+#---------------------------------------------------------------------
 #compilation: compilation guide inside files
 #usage: usage guide inside files
 #---------------------------------------------------------------------
