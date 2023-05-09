@@ -18,7 +18,7 @@
 
 #To generate a body out of origin the lattice_orbit-fragments_generator.f90 script can be used. 
 
-#The .data and .xyz file can be used by Atomic/Molecular Massively Parallel Simulator (LAMMPS) to performe simulations of granular matter in a gravitional field. 
+#The .data and .xyz file can be used by Atomic/Molecular Massively Parallel Simulator (LAMMPS) to performe simulations of granular matter in a gravitational field. 
 
 #The body visualization can be done by Visual Molecular Dynamics (VMD) or OVITO. For a body out of origin lattice_orbit-fragments_generator.f90 can be used.
 
